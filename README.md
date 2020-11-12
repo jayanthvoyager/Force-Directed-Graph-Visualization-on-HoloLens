@@ -7,7 +7,7 @@ Open MixedRealityToolkit-Unity project on unity 2019.4.11f1
 
 Import my Unity Package
 
-Follow these instructions
+Follow these instructions to build on Hololens 1 :
 ![alt text](https://github.com/jayanthvoyager/Force-Directed-Graph-Visualization-on-HoloLens/blob/main/Resources/1.png)
 
 ![alt text](https://github.com/jayanthvoyager/Force-Directed-Graph-Visualization-on-HoloLens/blob/main/Resources/2.png)
