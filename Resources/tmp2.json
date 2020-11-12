@@ -1,0 +1,18 @@
+{
+    "nodes":  [
+        { "name": "Myriel",             "group":  1 },
+        { "name": "Napoleon",           "group":  1 },
+        { "name": "Mlle.Baptistine",    "group":  1 },
+        { "name": "Mme.Magloire",       "group":  1 },
+        { "name": "CountessdeLo",       "group":  1 },
+	{ "name": "CountessdeLo",       "group":  1 }
+    ],
+
+    "links":  [
+        { "source": 0,  "target": 1,  "value":  1 },
+        { "source": 0,  "target": 2,  "value":  1 },
+        { "source": 0,  "target": 3,  "value":  1 },
+        { "source": 0,  "target": 4,  "value":  1 },
+	{ "source": 0,  "target": 5,  "value":  1 }
+    ]
+}
