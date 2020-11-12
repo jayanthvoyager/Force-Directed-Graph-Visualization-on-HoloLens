@@ -18,4 +18,8 @@ Follow these instructions
 
 ![alt text](https://github.com/jayanthvoyager/Force-Directed-Graph-Visualization-on-HoloLens/blob/main/Resources/5.png)
 
+![alt text](https://github.com/jayanthvoyager/Force-Directed-Graph-Visualization-on-HoloLens/blob/main/Resources/22.png)
+
+
+
 
